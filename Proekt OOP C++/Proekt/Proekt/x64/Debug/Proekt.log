@@ -1,0 +1,12 @@
+﻿  Proekt.cpp
+C:\Users\user\Desktop\Proekt OOP C++\Proekt\Proekt\Proekt.cpp(193,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\Desktop\Proekt OOP C++\Proekt\Proekt\Proekt.cpp(199,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\Desktop\Proekt OOP C++\Proekt\Proekt\Proekt.cpp(203,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\Desktop\Proekt OOP C++\Proekt\Proekt\Proekt.cpp(207,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\Desktop\Proekt OOP C++\Proekt\Proekt\Proekt.cpp(198,3): warning C4808: вариант "71" не является допустимым значением для условия оператора switch типа "bool"
+C:\Users\user\Desktop\Proekt OOP C++\Proekt\Proekt\Proekt.cpp(192,3): warning C4808: вариант "72" не является допустимым значением для условия оператора switch типа "bool"
+C:\Users\user\Desktop\Proekt OOP C++\Proekt\Proekt\Proekt.cpp(202,3): warning C4808: вариант "73" не является допустимым значением для условия оператора switch типа "bool"
+C:\Users\user\Desktop\Proekt OOP C++\Proekt\Proekt\Proekt.cpp(206,3): warning C4808: вариант "74" не является допустимым значением для условия оператора switch типа "bool"
+C:\Users\user\Desktop\Proekt OOP C++\Proekt\Proekt\Proekt.cpp(308,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\Desktop\Proekt OOP C++\Proekt\Proekt\Proekt.cpp(308,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Proekt.vcxproj -> C:\Users\user\Desktop\Proekt OOP C++\Proekt\x64\Debug\Proekt.exe
